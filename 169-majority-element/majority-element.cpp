@@ -5,10 +5,14 @@ public:
         for (auto num: nums) {
             if (count == 0)
                 res = num;
-            if (num != res)
+            if (num != res){
+
                 count--;
-            else
+            }
+            else{
+
                 count++;
+            }
         }
         return res;
     }
