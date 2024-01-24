@@ -6,12 +6,9 @@ public:
             if (count == 0)
                 res = num;
             if (num != res){
-
-                count--;
-            }
-            else{
-
-                count++;
+            count--;
+        }else{
+            count++;
             }
         }
         return res;
