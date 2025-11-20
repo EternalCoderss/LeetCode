@@ -28,4 +28,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/EternalCoderss/LeetCode/tree/master/0169-majority-element) |
+## Math
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/EternalCoderss/LeetCode/tree/master/1013-fibonacci-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/EternalCoderss/LeetCode/tree/master/1013-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/EternalCoderss/LeetCode/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/EternalCoderss/LeetCode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
