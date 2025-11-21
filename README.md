@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0169-majority-element](https://github.com/EternalCoderss/LeetCode/tree/master/0169-majority-element) |
 | [0724-find-pivot-index](https://github.com/EternalCoderss/LeetCode/tree/master/0724-find-pivot-index) |
+| [1019-squares-of-a-sorted-array](https://github.com/EternalCoderss/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -24,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/EternalCoderss/LeetCode/tree/master/0169-majority-element) |
+| [1019-squares-of-a-sorted-array](https://github.com/EternalCoderss/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 ## Counting
 |  |
 | ------- |
@@ -44,4 +46,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/EternalCoderss/LeetCode/tree/master/1013-fibonacci-number) |
+## Two Pointers
+|  |
+| ------- |
+| [1019-squares-of-a-sorted-array](https://github.com/EternalCoderss/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
