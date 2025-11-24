@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0724-find-pivot-index](https://github.com/EternalCoderss/LeetCode/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/EternalCoderss/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/EternalCoderss/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/EternalCoderss/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Prefix Sum
 |  |
 | ------- |
