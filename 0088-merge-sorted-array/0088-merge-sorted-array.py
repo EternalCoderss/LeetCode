@@ -6,9 +6,9 @@ class Solution:
         result = []
         for i in range(m):
             result.append(nums1[i])
-        
         for j in range(n):
             result.append(nums2[j])
         result.sort()
         for i in range(len(result)):
             nums1[i] = result[i]
+        
